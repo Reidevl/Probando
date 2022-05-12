@@ -13,4 +13,4 @@ print(y)
 y= re.findall('[aeiou]+',x)
 
 print(y)
-
+print(x)
